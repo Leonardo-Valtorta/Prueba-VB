@@ -1,0 +1,9 @@
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\bin\Debug\Prueba.exe
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\bin\Debug\Prueba.pdb
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\bin\Debug\Prueba.xml
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.FrmMenu.resources
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.Resources.resources
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.vbproj.GenerateResource.Cache
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.exe
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.xml
+D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.pdb
