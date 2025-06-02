@@ -7,3 +7,6 @@ D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.vbproj.GenerateResource.
 D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.exe
 D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.xml
 D:\ISBH\REPOSITORIOS\Prueba\Prueba\obj\x86\Debug\Prueba.pdb
+D:\dani\Repositorio\Prueba-VB\Prueba\obj\x86\Debug\Prueba.exe
+D:\dani\Repositorio\Prueba-VB\Prueba\obj\x86\Debug\Prueba.xml
+D:\dani\Repositorio\Prueba-VB\Prueba\obj\x86\Debug\Prueba.pdb
