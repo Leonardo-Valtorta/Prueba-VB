@@ -24,6 +24,7 @@ Partial Class FrmMenu
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmMenu))
         Me.BtnNumeros = New System.Windows.Forms.Button()
+        Me.BtnLetras = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'BtnNumeros
@@ -41,11 +42,27 @@ Partial Class FrmMenu
         Me.BtnNumeros.TextAlign = System.Drawing.ContentAlignment.BottomCenter
         Me.BtnNumeros.UseVisualStyleBackColor = False
         '
+        'BtnLetras
+        '
+        Me.BtnLetras.BackColor = System.Drawing.SystemColors.ActiveCaption
+        Me.BtnLetras.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
+        Me.BtnLetras.Image = CType(resources.GetObject("BtnLetras.Image"), System.Drawing.Image)
+        Me.BtnLetras.ImageAlign = System.Drawing.ContentAlignment.TopCenter
+        Me.BtnLetras.Location = New System.Drawing.Point(181, 15)
+        Me.BtnLetras.Margin = New System.Windows.Forms.Padding(6)
+        Me.BtnLetras.Name = "BtnLetras"
+        Me.BtnLetras.Size = New System.Drawing.Size(112, 122)
+        Me.BtnLetras.TabIndex = 1
+        Me.BtnLetras.Text = "Letras"
+        Me.BtnLetras.TextAlign = System.Drawing.ContentAlignment.BottomCenter
+        Me.BtnLetras.UseVisualStyleBackColor = False
+        '
         'FrmMenu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 27.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(506, 258)
+        Me.Controls.Add(Me.BtnLetras)
         Me.Controls.Add(Me.BtnNumeros)
         Me.Font = New System.Drawing.Font("Comic Sans MS", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
@@ -58,5 +75,6 @@ Partial Class FrmMenu
 
     End Sub
     Friend WithEvents BtnNumeros As System.Windows.Forms.Button
+    Friend WithEvents BtnLetras As System.Windows.Forms.Button
 
 End Class
